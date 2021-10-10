@@ -9,8 +9,8 @@ router.get('/01_hotprogrammingin2020', function (req, res, next) {
 	});
 });
 
-router.get('/02_2020WebNavigation', function (req, res, next) {
-	res.render('Project/02_2020WebNavigation', {
+router.get('/02_toronto_house_price_analysis', function (req, res, next) {
+	res.render('Project/02_Toronto_House_Price_Analysis', {
 		layout: 'page_layout/Project_layout',
 	});
 });
