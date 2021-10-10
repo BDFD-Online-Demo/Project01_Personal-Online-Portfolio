@@ -5,7 +5,7 @@ var router = express.Router();
 
 router.get('/01_hotprogrammingin2020', function (req, res, next) {
 	res.render('Project/01_HotProgrammingin2020', {
-		layout: 'page_layout/Project_layout',
+		layout: 'page_layout/Blog_layout',
 	});
 });
 
