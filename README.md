@@ -1,8 +1,8 @@
 <!--
  * @Author: BDFD
  * @Date: 2021-10-20 12:23:10
- * @LastEditTime: 2021-11-02 22:05:48
- * @LastEditors: BDFD
+ * @LastEditTime: 2021-11-02 22:09:40
+ * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \Project1.1_David-Online-Portfolio\README.md
 -->
@@ -22,3 +22,5 @@ Heroku Link: https://dc-personal-portfolio.herokuapp.com/
 
 2021-10-31
 Update Info
+
+note: need done for certificate full demo page - /certificate
